@@ -1,0 +1,14 @@
+D:\Dev\C#\Consola\Linq\InnerJoinLinq\InnerJoinLinq\bin\Debug\netcoreapp3.1\InnerJoinLinq.exe
+D:\Dev\C#\Consola\Linq\InnerJoinLinq\InnerJoinLinq\bin\Debug\netcoreapp3.1\InnerJoinLinq.deps.json
+D:\Dev\C#\Consola\Linq\InnerJoinLinq\InnerJoinLinq\bin\Debug\netcoreapp3.1\InnerJoinLinq.runtimeconfig.json
+D:\Dev\C#\Consola\Linq\InnerJoinLinq\InnerJoinLinq\bin\Debug\netcoreapp3.1\InnerJoinLinq.runtimeconfig.dev.json
+D:\Dev\C#\Consola\Linq\InnerJoinLinq\InnerJoinLinq\bin\Debug\netcoreapp3.1\InnerJoinLinq.dll
+D:\Dev\C#\Consola\Linq\InnerJoinLinq\InnerJoinLinq\bin\Debug\netcoreapp3.1\InnerJoinLinq.pdb
+D:\Dev\C#\Consola\Linq\InnerJoinLinq\InnerJoinLinq\obj\Debug\netcoreapp3.1\InnerJoinLinq.csproj.AssemblyReference.cache
+D:\Dev\C#\Consola\Linq\InnerJoinLinq\InnerJoinLinq\obj\Debug\netcoreapp3.1\InnerJoinLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\Consola\Linq\InnerJoinLinq\InnerJoinLinq\obj\Debug\netcoreapp3.1\InnerJoinLinq.AssemblyInfoInputs.cache
+D:\Dev\C#\Consola\Linq\InnerJoinLinq\InnerJoinLinq\obj\Debug\netcoreapp3.1\InnerJoinLinq.AssemblyInfo.cs
+D:\Dev\C#\Consola\Linq\InnerJoinLinq\InnerJoinLinq\obj\Debug\netcoreapp3.1\InnerJoinLinq.csproj.CoreCompileInputs.cache
+D:\Dev\C#\Consola\Linq\InnerJoinLinq\InnerJoinLinq\obj\Debug\netcoreapp3.1\InnerJoinLinq.dll
+D:\Dev\C#\Consola\Linq\InnerJoinLinq\InnerJoinLinq\obj\Debug\netcoreapp3.1\InnerJoinLinq.pdb
+D:\Dev\C#\Consola\Linq\InnerJoinLinq\InnerJoinLinq\obj\Debug\netcoreapp3.1\InnerJoinLinq.genruntimeconfig.cache
